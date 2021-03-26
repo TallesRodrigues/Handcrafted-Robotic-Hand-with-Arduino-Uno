@@ -1,6 +1,6 @@
-# roboticHand
+# handcrafted robotic Hand
 
-Robotic Hand Using Servo Drivers. 
+Handcrafted Robotic Hand Using Servo Drivers. 
 
 Each servo is connected to a pin I setup in my Arduino Uno Board. YOu can change it as you want.
 
